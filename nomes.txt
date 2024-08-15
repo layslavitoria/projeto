@@ -1,0 +1,10 @@
+nomes.txt
+Laysla
+Gabryelle
+Rafaela
+Marcello
+Sabrina
+Caio
+
+git branch -M main
+
