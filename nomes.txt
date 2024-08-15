@@ -6,5 +6,4 @@ Marcello
 Sabrina
 Caio
 
-git branch -M main
 
